@@ -1,1 +1,1 @@
-# Ejercicios-sobre-Programaci-n-en-Memoria-Compartida-y-Hilos-Algoritmos-Paralelos-
+# Ejercicios-sobre-Programacion-en-Memoria-Compartida-y-Hilos-Algoritmos-Paralelos-
